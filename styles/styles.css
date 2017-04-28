@@ -1,13 +1,18 @@
 body {
     background: #80ff85 url("smiley.gif") no-repeat fixed center;
-    font-style: sans-serif;
+    font-family: sans-serif;
 }
 
 h1 {
     color: #505050;
     text-align: center;
+    letter-spacing: 10px;
 }
 
 h2 {
+    font-stretch: ultra-expanded;
+}
 
+p {
+    text-align: justify;
 }
