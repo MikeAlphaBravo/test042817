@@ -1,5 +1,5 @@
 body {
-    background: #80ff85 url("smiley.gif") no-repeat fixed center;
+    background: #ffffff url("smiley.gif") no-repeat fixed center;
     font-family: sans-serif;
 }
 
@@ -10,7 +10,7 @@ h1 {
 }
 
 h2 {
-    font-stretch: ultra-expanded;
+    letter-spacing: 5px;
 }
 
 p {
